@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void meow(void)
+{
+}
+
 void maow(void)
 {
 }
